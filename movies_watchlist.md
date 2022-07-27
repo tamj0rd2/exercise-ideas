@@ -14,13 +14,13 @@ I like watching films and I'd like a way to keep track of which films I want to 
 
 ## Suggestions on how to tackle this:
 
-Assume you're writing this software for someone who doesn't have any programming experience at all. I suggest you take the requirements point by point.
+I suggest you take the requirements point by point.
 
 ### Adding films to the watch list
 
 **How is your program going to find out which film I want to add to the watch list?**
 
-Remember, I don't have any programming experience so I definitely don't expect to start modifying your code by hand! Look into how to "read user input" in your language of choice.
+I don't have any programming experience so I definitely don't expect to start modifying your code by hand! Look into how to "read user input" in your language of choice.
 
 **Once I've added a film to the list, how will you show me it's actually happened?**
 
